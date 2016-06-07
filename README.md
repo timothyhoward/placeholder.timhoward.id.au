@@ -1,2 +1,2 @@
-# jessicahyman.net
-A little portfolio for Jess
+# timhoward.id.au (placeholder)
+Sourced from jimwhimpey/jessicahyman.net
